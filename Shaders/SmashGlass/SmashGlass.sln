@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmashGlass", "SmashGlass\SmashGlass\SmashGlass.csproj", "{27D5E8D8-F0CD-4A44-87FA-2A8FC3F81B9D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SmashGlassContent", "SmashGlass\SmashGlassContent\SmashGlassContent.contentproj", "{7B41D589-97C1-44B0-B45C-6297FB9449F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27D5E8D8-F0CD-4A44-87FA-2A8FC3F81B9D}.Debug|x86.ActiveCfg = Debug|x86
+		{27D5E8D8-F0CD-4A44-87FA-2A8FC3F81B9D}.Debug|x86.Build.0 = Debug|x86
+		{27D5E8D8-F0CD-4A44-87FA-2A8FC3F81B9D}.Release|x86.ActiveCfg = Release|x86
+		{27D5E8D8-F0CD-4A44-87FA-2A8FC3F81B9D}.Release|x86.Build.0 = Release|x86
+		{7B41D589-97C1-44B0-B45C-6297FB9449F2}.Debug|x86.ActiveCfg = Debug|x86
+		{7B41D589-97C1-44B0-B45C-6297FB9449F2}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
